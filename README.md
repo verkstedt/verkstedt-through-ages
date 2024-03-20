@@ -6,6 +6,8 @@ Created during verkstedt’s Open Friday 💚 and [licensed under ISC](./LICENSE
 
 - <http://1992.verkstedt.com>: HTML (Text!)
   ([code](https://github.com/verkstedt/verkstedt-through-ages/commit/1992))
+- <http://1995.verkstedt.com>: HTML 2.0 (Images! Tables!)
+  ([diff](https://github.com/verkstedt/verkstedt-through-ages/compare/1992...1995))
 
 ## Running locally
 
@@ -17,6 +19,7 @@ npx serve .
 
 Branches for each year are stacked on top of each other. This is to use
 git history as a metaphor for the history of the HTML spec.
+See “diff” links in [“Years” section](#years).
 
 This means that if you want to make a change to non–latest year, you’ll
 need to rebase later years on top of it. Fortunately Git makes it
