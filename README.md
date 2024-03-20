@@ -2,6 +2,11 @@
 
 Created during verkstedt’s Open Wednesday 💚 and [licensed under ISC](./LICENSE).
 
+## Years
+
+- <http://1992.verkstedt.com>: HTML (Text!)
+  ([code](https://github.com/verkstedt/verkstedt-through-ages/commit/1992))
+
 ## Running locally
 
 ```sh
