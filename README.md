@@ -40,3 +40,14 @@ need to rebase later years on top of it. Fortunately Git makes it
 </details>
 
 [video-update-refs]: https://www.youtube.com/watch?v=Md44rcw13k4&t=941s
+
+## Deploying
+
+We deploy to Cloudflare Pages. You can use `wrangler` for that:
+
+```sh
+# preview:
+npx wrangler pages deploy .
+# production:
+npx wrangler pages deploy --branch=main .
+```

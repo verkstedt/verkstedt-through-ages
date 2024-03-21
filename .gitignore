@@ -1,0 +1,5 @@
+/node_modules/
+# Is commiting a random file from node_modules/.cache/ ridiculos?
+# Perhaps. (Yes.) But this way we can configure different project_id
+# for each of your year branches.
+!node_modules/.cache/wrangler/pages.json
