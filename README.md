@@ -8,6 +8,8 @@ Created during verkstedt’s Open Wednesday 💚 and [licensed under ISC](./LICE
   ([code](https://github.com/verkstedt/verkstedt-through-ages/commit/1992))
 - <http://1995.verkstedt.com>: HTML 2.0 (Images! Tables!)
   ([diff](https://github.com/verkstedt/verkstedt-through-ages/compare/1992...1995))
+- <http://1997.verkstedt.com>: HTML 3.2 (Background images! Colours! Styles!)
+  ([diff](https://github.com/verkstedt/verkstedt-through-ages/compare/1995...1997))
 
 ## Running locally
 
