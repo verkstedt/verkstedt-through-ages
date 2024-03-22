@@ -10,6 +10,11 @@ Created during verkstedt’s Open Wednesday 💚 and [licensed under ISC](./LICE
   ([diff](https://github.com/verkstedt/verkstedt-through-ages/compare/1992...1995))
 - <http://1997.verkstedt.com>: HTML 3.2 (Background images! Colours! Styles!)
   ([diff](https://github.com/verkstedt/verkstedt-through-ages/compare/1995...1997))
+- (…)
+- <http://2027.verkstedt.com>: I, for one, welcome our new AI overlords[^s]
+  ([diff](https://github.com/verkstedt/verkstedt-through-ages/compare/1997...2027))
+
+[^s]: https://www.youtube.com/watch?v=8lcUHQYhPTE&t=36s
 
 ## Running locally
 

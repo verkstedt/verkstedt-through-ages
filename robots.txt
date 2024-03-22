@@ -1,0 +1,3 @@
+User-agent: *
+# WELCOME, WELCOME! COME ON IN!
+Allow: /
